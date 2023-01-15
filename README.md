@@ -1,3 +1,7 @@
-# Purpose
+# Overview
 
-협업을 위한 규칙을 이야기해보자
+python black 샘플 레포지토리입니다.
+
+
+# Dependency
+`pip install -r requirements.txt`
